@@ -1,5 +1,5 @@
 {
   "diseaseId": "diabetes",
-  "updated": "2026-09-07",
-  "note": "無料開放する疾患を1つ指定する。切り替えたいときに書き換えるだけ（非定期でOK・アプリ更新不要）。diseaseId は hypertension / dyslipidemia / sleepdissorders / diabetes / hyperuricemia / renalimpairment / kampo / respiratory / psychiatry のいずれか。無料開放をやめるときは diseaseId を \"\" にする。updated は自分用メモ。"
+  "updated": "2026-09-07", 
+  "until": "2026-10-22",  "note": "無料開放する疾患を1つ指定する。切り替えたいときに書き換えるだけ（非定期でOK・アプリ更新不要）。diseaseId は hypertension / dyslipidemia / sleepdissorders / diabetes / hyperuricemia / renalimpairment / kampo / respiratory / psychiatry のいずれか。無料開放をやめるときは diseaseId を \"\" にする。updated は自分用メモ。"
 }
