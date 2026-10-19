@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eriaika.github.io/sitemap.xml
